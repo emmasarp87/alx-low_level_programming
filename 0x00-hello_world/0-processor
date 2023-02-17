@@ -1,5 +1,0 @@
-#!/bin/bash
-#include <stdio.h>
-gcc -E C
-gcc -E C -o c
-gcc -E $CFILE -o c
