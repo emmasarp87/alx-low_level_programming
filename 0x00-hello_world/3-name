@@ -1,0 +1,3 @@
+#!/bin/bash
+gcc c_is_cool
+gcc c_is_cool -o cisfun
