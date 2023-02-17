@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc c_is_cool -o cisfun
+gcc $CFILE -o cisfun
