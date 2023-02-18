@@ -22,8 +22,6 @@ int main(void)
     while (i < 100)
     {
         if (i / 10 < i % 10)
-{
-        if (i / 10 < i % 10)
         {
             putchar(i / 10 + '0');
             putchar(i % 10 + '0');
@@ -33,6 +31,7 @@ int main(void)
                 putchar(',');
                 putchar(' ');
             }
+           }
         }
         i++;
     }
