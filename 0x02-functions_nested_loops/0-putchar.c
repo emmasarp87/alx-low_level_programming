@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <main.h>
 int _putchar(char c);
 
 /**
@@ -6,7 +6,7 @@ int _putchar(char c);
  *
  * Return: 0 Success
  */
-int main(void)
+int_putchar(char c)
 {
 	_putchar('_');
 	_putchar('p');
@@ -18,4 +18,4 @@ int main(void)
 	_putchar('r');
 	_putchar('\n');
 	return (0);
-}
+}}
