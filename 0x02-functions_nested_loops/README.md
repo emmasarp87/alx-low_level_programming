@@ -1,1 +1,1 @@
-Write a program that prints _putchar, followed by a new line.
+coding_is_fun
